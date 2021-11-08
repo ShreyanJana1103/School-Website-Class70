@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+}
+#ga{
+    height:600px;
+    width:739px;
+    border-style: solid;
+    border-width:4px;
+    border-color:black;
+    margin: auto;
+}
+.nav navbar-nav{
+    list-style: none;
+    float:left;
+}   
+#ma{
+    background-color: blue;
+    color: white;   
+}
+#map iframe{
+    width:100%;
+}
+.my_nav_bar{
+    position: sticky;
+    top=0px;    
+}
+.achievements-head{
+    margin: 20px;
+    border-radius: 10px;
+    width:80%;
+    height:4%;
+    font-size: 25px;
+    display: inline-block;
+}
+.achievements-head i{
+    float: right;
+}
+.mainDiv img{
+    width: 100%;
+    height: 300px;
+}
+.shreyan{
+    padding-bottom: 700px;
+}
+.details h5{
+    display: inline
+}
+.what_li{
+   margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: fixed;
+}
+.what_li h4{
+    padding:8px;
+    
+}
+.what_li p{
+    margin-top:10px;
+    font-size: 17px;
+}
+.what_li img{
+    border-radius:25px;
+    height:350px;
+    width:500px;
+}
+
